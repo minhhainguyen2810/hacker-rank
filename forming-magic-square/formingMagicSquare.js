@@ -1,3 +1,7 @@
+/**
+ * @see https://www.hackerrank.com/challenges/magic-square-forming/problem
+ */
+
 // result from test.js
 const magicSquares = [
   [
